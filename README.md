@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akshat-13-Soni/Array/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Akshat-13-Soni/Array/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Akshat-13-Soni/Array/tree/master/0704-binary-search) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Akshat-13-Soni/Array/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
