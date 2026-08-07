@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Akshat-13-Soni/Array/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Akshat-13-Soni/Array/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Akshat-13-Soni/Array/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Akshat-13-Soni/Array/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Akshat-13-Soni/Array/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Akshat-13-Soni/Array/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Akshat-13-Soni/Array/tree/master/0704-binary-search) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Akshat-13-Soni/Array/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Akshat-13-Soni/Array/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/Akshat-13-Soni/Array/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akshat-13-Soni/Array/tree/master/3345-smallest-divisible-digit-product-i) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Akshat-13-Soni/Array/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
