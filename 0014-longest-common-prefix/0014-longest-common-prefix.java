@@ -5,8 +5,8 @@ class Solution {
         }
         String prefix = strs[0];
         for(String s:strs){
-            while(s.indexOf(prefix)!=0){
-                prefix = prefix.substring(0, prefix.length() -1);
+            while(s.startsWith(prefix)==false){
+                prefix = prefix.substring(0,prefix.length()-1);
             }
         }
         return prefix;
