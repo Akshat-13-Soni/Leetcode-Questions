@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Akshat-13-Soni/Array/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akshat-13-Soni/Array/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Akshat-13-Soni/Array/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/Akshat-13-Soni/Array/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Akshat-13-Soni/Array/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Akshat-13-Soni/Array/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Akshat-13-Soni/Array/tree/master/0189-rotate-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akshat-13-Soni/Array/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat-13-Soni/Array/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Akshat-13-Soni/Array/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Akshat-13-Soni/Array/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Akshat-13-Soni/Array/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -77,10 +79,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Akshat-13-Soni/Array/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Akshat-13-Soni/Array/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Akshat-13-Soni/Array/tree/master/0268-missing-number) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Akshat-13-Soni/Array/tree/master/0278-first-bad-version) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Akshat-13-Soni/Array/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Akshat-13-Soni/Array/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
