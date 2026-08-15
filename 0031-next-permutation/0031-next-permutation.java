@@ -26,11 +26,11 @@ class Solution {
             nums[i]=nums[j];
             nums[j]=temp;
     }
-    public void reverse(int[] nums, int low, int high){
-        while(low<high){
-            swap(nums,low,high);
-            low++;
-            high--;
+    public void reverse(int[] nums, int i, int j){
+        while(i<j){
+            swap(nums,i,j);
+            i++;
+            j--;
         }
     }
 }
