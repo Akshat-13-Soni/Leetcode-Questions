@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akshat-13-Soni/Array/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Akshat-13-Soni/Array/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Akshat-13-Soni/Array/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Akshat-13-Soni/Array/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Akshat-13-Soni/Array/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Akshat-13-Soni/Array/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Akshat-13-Soni/Array/tree/master/0075-sort-colors) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Akshat-13-Soni/Array/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Akshat-13-Soni/Array/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Akshat-13-Soni/Array/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Akshat-13-Soni/Array/tree/master/0268-missing-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akshat-13-Soni/Array/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -134,5 +136,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Akshat-13-Soni/Array/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Akshat-13-Soni/Array/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
