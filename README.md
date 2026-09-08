@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Akshat-13-Soni/Array/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Akshat-13-Soni/Array/tree/master/0268-missing-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akshat-13-Soni/Array/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3870-count-commas-in-range](https://github.com/Akshat-13-Soni/Array/tree/master/3870-count-commas-in-range) |
 ## Union-Find
 |  |
 | ------- |
