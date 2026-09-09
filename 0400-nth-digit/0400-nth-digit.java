@@ -13,11 +13,11 @@ class Solution {
             start *= 10;
         }
 
-        //figuring out which number within that block
+        //figuring out the number within that block
         start += (N - 1) / digits;
         String s = Long.toString(start);
 
-        // Step 3: figure out which digit of that number
+        //figuring out the digit of that number
         return s.charAt((int) ((N - 1) % digits)) - '0';
     }
 }
