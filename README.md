@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Akshat-13-Soni/Array/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Akshat-13-Soni/Array/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Akshat-13-Soni/Array/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/Akshat-13-Soni/Array/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Akshat-13-Soni/Array/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/Akshat-13-Soni/Array/tree/master/0400-nth-digit) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshat-13-Soni/Array/tree/master/0540-single-element-in-a-sorted-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Akshat-13-Soni/Array/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Akshat-13-Soni/Array/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Akshat-13-Soni/Array/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Akshat-13-Soni/Array/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/Akshat-13-Soni/Array/tree/master/0400-nth-digit) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akshat-13-Soni/Array/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/Akshat-13-Soni/Array/tree/master/3870-count-commas-in-range) |
