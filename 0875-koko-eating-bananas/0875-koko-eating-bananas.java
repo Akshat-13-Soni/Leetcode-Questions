@@ -12,7 +12,7 @@ class Solution {
             max = Math.max(max, num);
         }   
         int low = 1, high=max;
-        int k=Integer.MIN_VALUE;
+        int k=Integer.MAX_VALUE;
         while (low <= high) {
             int mid = low+(high - low)/2;
             if (timeNeed(piles, mid) <= h) {
