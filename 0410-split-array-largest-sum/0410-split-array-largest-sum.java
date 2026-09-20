@@ -1,46 +1,37 @@
 class Solution {
-    public int splitArray(int[] nums, int k) {
-        int n = nums.length;
-        int max = -1;
-        int sum =0;
-
-        for(int i =0;i<n ;i++){
-            sum = sum + nums[i];
-            max = Math.max(max,nums[i]);
-        }
-
-        int low = max;
-        int high = sum;
-        int ans = -1;
-        while(low<=high){
-            int mid = (low+high)/2;
-            if(split(nums,n,mid,k)){
-                high = mid -1;
-                ans = mid;
+    public int subarrSum(int[] nums, int subarr){
+        int subarrs = 1;
+        int numberSubarrs=0;
+        for(int i=0; i<nums.length; i++){
+            if((numberSubarrs+nums[i])<=subarr){
+                numberSubarrs+=nums[i];
             }
             else{
-                low = mid +1;
+                subarrs++;
+                numberSubarrs=nums[i];
             }
         }
-        return ans;
+        return subarrs;
     }
-
-    public boolean split(int[] nums, int n , int maxsum , int maxsubarrcount) {
-        int subarr_count = 1;
-        int sum = 0;
-
-        for(int i=0;i<n ;i++){
-            if(nums[i]>maxsum) return false;
-            else if((nums[i]+sum) > maxsum){
-                // next subarray
-                subarr_count++;
-                sum = nums[i];
+    public int splitArray(int[] nums, int k) {
+        if(k>nums.length){
+            return -1;
+        }
+        int sum=0;
+        for(int i=0; i<nums.length; i++){
+            sum+=nums[i];
+        }
+        int low = Arrays.stream(nums).max().getAsInt();
+        int high=sum;
+        while(low<high){
+            int mid = low+(high-low)/2;
+            if(subarrSum(nums,mid)>k){
+                low=mid+1;
             }
             else{
-                sum = sum + nums[i];
+                high=mid;
             }
-            if(subarr_count>maxsubarrcount)return false;
         }
-        return true;
+        return low;
     }
 }
