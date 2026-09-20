@@ -6,6 +6,9 @@ class Solution {
             if(nums[mid]>nums[high]){
                 low=mid+1;
             }
+            else if(nums[mid]==nums[high]){
+                high--;
+            }
             else{
                 high=mid;
             }
