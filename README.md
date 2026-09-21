@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Akshat-13-Soni/Array/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Akshat-13-Soni/Array/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Akshat-13-Soni/Array/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1929-concatenation-of-array](https://github.com/Akshat-13-Soni/Array/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akshat-13-Soni/Array/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Akshat-13-Soni/Array/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshat-13-Soni/Array/tree/master/3483-unique-3-digit-even-numbers) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Akshat-13-Soni/Array/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Akshat-13-Soni/Array/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/Akshat-13-Soni/Array/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akshat-13-Soni/Array/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/Akshat-13-Soni/Array/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
