@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Akshat-13-Soni/Array/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/Akshat-13-Soni/Array/tree/master/0400-nth-digit) |
 | [0836-rectangle-overlap](https://github.com/Akshat-13-Soni/Array/tree/master/0836-rectangle-overlap) |
+| [2469-convert-the-temperature](https://github.com/Akshat-13-Soni/Array/tree/master/2469-convert-the-temperature) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akshat-13-Soni/Array/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/Akshat-13-Soni/Array/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Akshat-13-Soni/Array/tree/master/3871-count-commas-in-range-ii) |
