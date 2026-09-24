@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akshat-13-Soni/Array/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Akshat-13-Soni/Array/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshat-13-Soni/Array/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Akshat-13-Soni/Array/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Akshat-13-Soni/Array/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akshat-13-Soni/Array/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Akshat-13-Soni/Array/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Akshat-13-Soni/Array/tree/master/3871-count-commas-in-range-ii) |
 ## Union-Find
