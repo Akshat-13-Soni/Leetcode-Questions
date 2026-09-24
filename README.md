@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Akshat-13-Soni/Array/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/Akshat-13-Soni/Array/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akshat-13-Soni/Array/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2643-row-with-maximum-ones](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Akshat-13-Soni/Array/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshat-13-Soni/Array/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Akshat-13-Soni/Array/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Akshat-13-Soni/Array/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Akshat-13-Soni/Array/tree/master/0073-set-matrix-zeroes) |
+| [2643-row-with-maximum-ones](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
