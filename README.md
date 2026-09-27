@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Akshat-13-Soni/Array/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Akshat-13-Soni/Array/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Akshat-13-Soni/Array/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshat-13-Soni/Array/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Akshat-13-Soni/Array/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/Akshat-13-Soni/Array/tree/master/0400-nth-digit) |
 | [0507-perfect-number](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0507-perfect-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Akshat-13-Soni/Array/tree/master/0836-rectangle-overlap) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Akshat-13-Soni/Array/tree/master/1486-xor-operation-in-an-array) |
 | [2413-smallest-even-multiple](https://github.com/Akshat-13-Soni/Array/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Akshat-13-Soni/Array/tree/master/2469-convert-the-temperature) |
