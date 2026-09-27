@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Akshat-13-Soni/Array/tree/master/0151-reverse-words-in-a-string) |
 | [0520-detect-capital](https://github.com/Akshat-13-Soni/Array/tree/master/0520-detect-capital) |
 | [1021-remove-outermost-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Akshat-13-Soni/Array/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 | Problem Name | Difficulty |
@@ -290,9 +291,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
