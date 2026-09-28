@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat-13-Soni/Array/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Akshat-13-Soni/Array/tree/master/0151-reverse-words-in-a-string) |
 | [0520-detect-capital](https://github.com/Akshat-13-Soni/Array/tree/master/0520-detect-capital) |
+| [0856-score-of-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0020-valid-parentheses/) | Easy |
+| [0856-score-of-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0020-valid-parentheses/) | Easy |
+| [0856-score-of-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
