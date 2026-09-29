@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Akshat-13-Soni/Array/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Akshat-13-Soni/Array/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Akshat-13-Soni/Array/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Akshat-13-Soni/Array/tree/master/0169-majority-element) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Akshat-13-Soni/Array/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat-13-Soni/Array/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Akshat-13-Soni/Array/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Akshat-13-Soni/Array/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Akshat-13-Soni/Array/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Akshat-13-Soni/Array/tree/master/0189-rotate-array) |
