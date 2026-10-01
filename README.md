@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Akshat-13-Soni/Array/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Akshat-13-Soni/Array/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Akshat-13-Soni/Array/tree/master/0875-koko-eating-bananas) |
+| [0930-binary-subarrays-with-sum](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Akshat-13-Soni/Array/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Akshat-13-Soni/Array/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Akshat-13-Soni/Array/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Akshat-13-Soni/Array/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshat-13-Soni/Array/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshat-13-Soni/Array/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Akshat-13-Soni/Array/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshat-13-Soni/Array/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshat-13-Soni/Array/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
