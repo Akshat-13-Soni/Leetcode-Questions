@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Akshat-13-Soni/Array/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 | Problem Name | Difficulty |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Akshat-13-Soni/Array/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Akshat-13-Soni/Array/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Akshat-13-Soni/Array/tree/master/2469-convert-the-temperature) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Akshat-13-Soni/Array/tree/master/0410-split-array-largest-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Akshat-13-Soni/Array/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1903-largest-odd-number-in-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
