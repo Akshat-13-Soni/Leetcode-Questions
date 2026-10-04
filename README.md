@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Akshat-13-Soni/Array/tree/master/0151-reverse-words-in-a-string) |
 | [0520-detect-capital](https://github.com/Akshat-13-Soni/Array/tree/master/0520-detect-capital) |
+| [0796-rotate-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0796-rotate-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat-13-Soni/Array/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0796-rotate-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
