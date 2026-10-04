@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Akshat-13-Soni/Array/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akshat-13-Soni/Array/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2951-find-the-peaks](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2951-find-the-peaks/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Akshat-13-Soni/Array/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Akshat-13-Soni/Array/tree/master/2413-smallest-even-multiple) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Akshat-13-Soni/Array/tree/master/2469-convert-the-temperature) |
 | [2582-pass-the-pillow](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2582-pass-the-pillow/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
