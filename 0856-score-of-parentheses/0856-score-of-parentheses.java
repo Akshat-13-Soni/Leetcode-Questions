@@ -9,7 +9,7 @@ class Solution {
             if(s.charAt(i)==')'){
                 depth--;
                 if(s.charAt(i-1)=='('){
-                    score+=1<<depth;
+                    score+=1<<depth;      //1 is dubled depth times (depth*2)
                 }
             }
         }
