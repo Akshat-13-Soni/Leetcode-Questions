@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Akshat-13-Soni/Array/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Akshat-13-Soni/Array/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akshat-13-Soni/Array/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Akshat-13-Soni/Array/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Akshat-13-Soni/Array/tree/master/0560-subarray-sum-equals-k) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat-13-Soni/Array/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Akshat-13-Soni/Array/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0520-detect-capital](https://github.com/Akshat-13-Soni/Array/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Akshat-13-Soni/Array/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Akshat-13-Soni/Array/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akshat-13-Soni/Array/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Akshat-13-Soni/Array/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Akshat-13-Soni/Array/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
