@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akshat-13-Soni/Array/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2643-row-with-maximum-ones/) | Easy |
+| [2644-find-the-maximum-divisibility-score](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2644-find-the-maximum-divisibility-score/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2951-find-the-peaks](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2951-find-the-peaks/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Akshat-13-Soni/Array/tree/master/3471-find-the-largest-almost-missing-integer) |
