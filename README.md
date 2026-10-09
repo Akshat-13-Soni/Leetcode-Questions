@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/3178-find-the-child-who-has-the-ball-after-k-seconds/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akshat-13-Soni/Array/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3516-find-closest-person](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/3516-find-closest-person/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Akshat-13-Soni/Array/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Akshat-13-Soni/Array/tree/master/3871-count-commas-in-range-ii) |
