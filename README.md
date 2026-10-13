@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshat-13-Soni/Array/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Akshat-13-Soni/Array/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Akshat-13-Soni/Array/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Akshat-13-Soni/Array/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
