@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Akshat-13-Soni/Array/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Akshat-13-Soni/Array/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Akshat-13-Soni/Array/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Akshat-13-Soni/Array/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Akshat-13-Soni/Array/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Akshat-13-Soni/Array/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Akshat-13-Soni/Array/tree/master/0287-find-the-duplicate-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akshat-13-Soni/Array/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Akshat-13-Soni/Array/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Akshat-13-Soni/Array/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Akshat-13-Soni/Array/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
