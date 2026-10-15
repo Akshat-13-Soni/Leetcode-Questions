@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2644-find-the-maximum-divisibility-score](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2644-find-the-maximum-divisibility-score/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2951-find-the-peaks](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2951-find-the-peaks/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Akshat-13-Soni/Array/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshat-13-Soni/Array/tree/master/3483-unique-3-digit-even-numbers) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Akshat-13-Soni/Array/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshat-13-Soni/Array/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
@@ -411,4 +413,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
