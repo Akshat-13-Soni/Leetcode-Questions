@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshat-13-Soni/Array/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 | Problem Name | Difficulty |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
