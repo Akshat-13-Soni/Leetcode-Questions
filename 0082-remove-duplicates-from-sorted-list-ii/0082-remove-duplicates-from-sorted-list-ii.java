@@ -15,13 +15,13 @@ class Solution {
 
         while (curr.next != null && curr.next.next != null) {
             if (curr.next.val == curr.next.next.val) {
-                int duplicateValue = curr.next.val;
+                int duplicateValue = curr.next.val;           // save duplicate value
                 while (curr.next != null && curr.next.val == duplicateValue) {
-                    curr.next = curr.next.next;   // your same unlink trick
+                    curr.next = curr.next.next;               // remove all copies
                 }
             } 
             else {
-                curr = curr.next;
+                curr = curr.next;                             // distinct, move ahead
             }
         }
         return temp.next;
