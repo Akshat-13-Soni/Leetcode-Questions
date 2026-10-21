@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [3110-score-of-a-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/3110-score-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Akshat-13-Soni/Array/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
