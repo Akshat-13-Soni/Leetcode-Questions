@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Akshat-13-Soni/Array/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Akshat-13-Soni/Array/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshat-13-Soni/Array/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Akshat-13-Soni/Array/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0709-to-lower-case](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0709-to-lower-case/) | Easy |
+| [0771-jewels-and-stones](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0796-rotate-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
