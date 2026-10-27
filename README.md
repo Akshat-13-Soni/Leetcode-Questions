@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1417-reformat-the-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1417-reformat-the-string/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1816-truncate-sentence](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1816-truncate-sentence/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Akshat-13-Soni/Array/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
