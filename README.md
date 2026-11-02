@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Akshat-13-Soni/Array/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Akshat-13-Soni/Array/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Akshat-13-Soni/Array/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshat-13-Soni/Array/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshat-13-Soni/Array/tree/master/0560-subarray-sum-equals-k) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Akshat-13-Soni/Array/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/Akshat-13-Soni/Array/tree/master/0400-nth-digit) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0507-perfect-number](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0507-perfect-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Akshat-13-Soni/Array/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Akshat-13-Soni/Array/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Akshat-13-Soni/Array/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Akshat-13-Soni/Array/tree/master/1838-frequency-of-the-most-frequent-element) |
