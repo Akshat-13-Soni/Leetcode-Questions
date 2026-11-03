@@ -1,21 +1,26 @@
 class Solution {
     public int maximumValue(String[] strs) {
-        int digitValue=0;
-        int maxDigitValue=0;
-        int stringLengthValue=0;
-        int maxStringLengthValue=0;
-        int maxArrayValue=0;
+        int maxValue = 0;
         for(int i=0; i<strs.length; i++){
-            if(strs[i].matches("[0-9]+")){
-                digitValue = Integer.parseInt(strs[i]);
-                maxDigitValue = Math.max(maxDigitValue, digitValue);
+            String s = strs[i];
+            boolean onlyDigits = true;
+            for(int j=0; j<s.length(); j++){   //check for every character in string
+                char ch = s.charAt(j);
+                if(ch<'0'||ch>'9'){
+                    onlyDigits=false;
+                }
+            }
+            int value;
+            if(onlyDigits){
+                value = Integer.parseInt(s);     // "00123" -> 123
             }
             else{
-                stringLengthValue = strs[i].length();
-                maxStringLengthValue = Math.max(maxStringLengthValue, stringLengthValue);
+                value = s.length();     // "abcd" -> length=4
+            }
+            if(value>maxValue){
+                maxValue = value;
             }
         }
-        maxArrayValue = Math.max(maxDigitValue, maxStringLengthValue);
-        return maxArrayValue;
+        return maxValue;
     }
 }
