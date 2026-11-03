@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2644-find-the-maximum-divisibility-score/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2678-number-of-senior-citizens/) | Easy |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1816-truncate-sentence](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1816-truncate-sentence/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [3110-score-of-a-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/3110-score-of-a-string/) | Easy |
 | [3340-check-balanced-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/3340-check-balanced-string/) | Easy |
