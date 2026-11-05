@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Akshat-13-Soni/Array/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Akshat-13-Soni/Array/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Akshat-13-Soni/Array/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Akshat-13-Soni/Array/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshat-13-Soni/Array/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 | Problem Name | Difficulty |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0234-palindrome-linked-list](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0682-baseball-game/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0856-score-of-parentheses/) | Medium |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0876-middle-of-the-linked-list/) | Easy |
