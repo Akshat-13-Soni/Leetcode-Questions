@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Akshat-13-Soni/Array/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/Akshat-13-Soni/Array/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Akshat-13-Soni/Array/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/Akshat-13-Soni/Array/tree/master/0400-nth-digit) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0326-power-of-three/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshat-13-Soni/Array/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 | Problem Name | Difficulty |
