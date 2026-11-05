@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Akshat-13-Soni/Array/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshat-13-Soni/Array/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akshat-13-Soni/Array/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Akshat-13-Soni/Array/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Akshat-13-Soni/Array/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshat-13-Soni/Array/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Akshat-13-Soni/Array/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Akshat-13-Soni/Array/tree/master/1539-kth-missing-positive-number) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Akshat-13-Soni/Array/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
