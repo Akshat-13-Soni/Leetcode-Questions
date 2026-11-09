@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Akshat-13-Soni/Array/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0242-valid-anagram](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0242-valid-anagram/) | Easy |
+| [0394-decode-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0394-decode-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0520-detect-capital](https://github.com/Akshat-13-Soni/Array/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0342-power-of-four/) | Easy |
 | [0390-elimination-game](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0390-elimination-game/) | Medium |
+| [0394-decode-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0394-decode-string/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshat-13-Soni/Array/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 | Problem Name | Difficulty |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0394-decode-string/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0682-baseball-game/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0856-score-of-parentheses/) | Medium |
