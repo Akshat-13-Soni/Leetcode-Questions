@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Akshat-13-Soni/Array/tree/master/0367-valid-perfect-square) |
+| [0390-elimination-game](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0390-elimination-game/) | Medium |
 | [0400-nth-digit](https://github.com/Akshat-13-Soni/Array/tree/master/0400-nth-digit) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0342-power-of-four/) | Easy |
+| [0390-elimination-game](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0390-elimination-game/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshat-13-Soni/Array/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 | Problem Name | Difficulty |
