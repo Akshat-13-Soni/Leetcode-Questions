@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0006-zigzag-conversion](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Akshat-13-Soni/Array/tree/master/0014-longest-common-prefix) |
