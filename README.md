@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Akshat-13-Soni/Array/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0224-basic-calculator](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0394-decode-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0394-decode-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Akshat-13-Soni/Array/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/Akshat-13-Soni/Array/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0224-basic-calculator/) | Hard |
 | [0258-add-digits](https://github.com/Akshat-13-Soni/Array/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Akshat-13-Soni/Array/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0264-ugly-number-ii/) | Medium |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0224-basic-calculator](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0342-power-of-four/) | Easy |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0224-basic-calculator](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0394-decode-string/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
