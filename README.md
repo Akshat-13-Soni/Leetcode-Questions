@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Akshat-13-Soni/Array/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshat-13-Soni/Array/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Akshat-13-Soni/Array/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akshat-13-Soni/Array/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akshat-13-Soni/Array/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0011-container-with-most-water/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Akshat-13-Soni/Array/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
