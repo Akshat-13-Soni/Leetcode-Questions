@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Akshat-13-Soni/Array/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1534-count-good-triplets](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1534-count-good-triplets/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Akshat-13-Soni/Array/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Akshat-13-Soni/Array/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1534-count-good-triplets](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1534-count-good-triplets/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2951-find-the-peaks](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2951-find-the-peaks/) | Easy |
