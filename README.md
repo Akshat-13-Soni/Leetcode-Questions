@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshat-13-Soni/Array/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Akshat-13-Soni/Array/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Akshat-13-Soni/Array/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0264-ugly-number-ii](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
