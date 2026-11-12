@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1816-truncate-sentence/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Akshat-13-Soni/Array/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Akshat-13-Soni/Array/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akshat-13-Soni/Array/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Akshat-13-Soni/Array/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Akshat-13-Soni/Array/tree/master/0075-sort-colors) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
