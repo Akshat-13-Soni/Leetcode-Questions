@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1922-count-good-numbers](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1922-count-good-numbers/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Akshat-13-Soni/Array/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2427-number-of-common-factors/) | Easy |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0342-power-of-four/) | Easy |
 | [0390-elimination-game](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0390-elimination-game/) | Medium |
 | [0394-decode-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0394-decode-string/) | Medium |
+| [1922-count-good-numbers](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1922-count-good-numbers/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshat-13-Soni/Array/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 | Problem Name | Difficulty |
