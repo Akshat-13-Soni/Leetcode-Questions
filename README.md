@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Akshat-13-Soni/Array/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshat-13-Soni/Array/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshat-13-Soni/Array/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0605-can-place-flowers/) | Easy |
 | [0682-baseball-game](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/Akshat-13-Soni/Array/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Akshat-13-Soni/Array/tree/master/0875-koko-eating-bananas) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0011-container-with-most-water/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Akshat-13-Soni/Array/tree/master/0410-split-array-largest-sum) |
+| [0605-can-place-flowers](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0605-can-place-flowers/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
