@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2951-find-the-peaks/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Akshat-13-Soni/Array/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshat-13-Soni/Array/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Akshat-13-Soni/Array/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshat-13-Soni/Array/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Akshat-13-Soni/Array/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
