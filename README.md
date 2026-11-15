@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0796-rotate-string/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Akshat-13-Soni/Array/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Akshat-13-Soni/Array/tree/master/0287-find-the-duplicate-number) |
+| [0844-backspace-string-compare](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Akshat-13-Soni/Array/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Akshat-13-Soni/Array/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0682-baseball-game/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Akshat-13-Soni/Array/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akshat-13-Soni/Array/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0394-decode-string/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0682-baseball-game/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1021-remove-outermost-parentheses/) | Easy |
