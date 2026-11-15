@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1816-truncate-sentence](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1816-truncate-sentence/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [3110-score-of-a-string](https://github.com/Akshat-13-Soni/Leetcode-Questions/tree/main/3110-score-of-a-string/) | Easy |
